@@ -1,8 +1,8 @@
 ---
-title: Commander_Kaelen_Rhyse.md
+title: Commander_Kaelen_Rhyse
 description: 
 published: true
-date: 2026-08-22T23:24:01.331Z
+date: 2026-08-22T23:25:46.110Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-22T22:38:37.175Z
