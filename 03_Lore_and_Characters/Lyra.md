@@ -1,3 +1,13 @@
+---
+title: Lyra
+description: 
+published: true
+date: 2026-08-22T23:33:02.578Z
+tags: 
+editor: markdown
+dateCreated: 2026-08-22T22:38:38.251Z
+---
+
 # Character Dossier: Lyra
 
 ## 📋 Section 1: Core Biometrics & Identity
