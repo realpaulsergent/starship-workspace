@@ -1,3 +1,13 @@
+---
+title: Captain_Elana_Vance
+description: 
+published: true
+date: 2026-08-22T23:32:38.192Z
+tags: 
+editor: markdown
+dateCreated: 2026-08-22T22:38:36.079Z
+---
+
 # Character Profile: Captain Elana Vance
 
 ## 📋 Section 1: Core Biometrics & Identity
